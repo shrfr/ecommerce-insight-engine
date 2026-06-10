@@ -117,4 +117,4 @@ For keyword **"laptop"**:
 
 **Shreya Bhattacharjee**  
 B.Tech Information Technology, KIIT University  
-[LinkedIn](www.linkedin.com/in/shreya-bhattacharjee-b648a9228) · [GitHub](https://github.com/shrfr)
+[LinkedIn](https://www.linkedin.com/in/shreya-bhattacharjee-b648a9228/) · [GitHub](https://github.com/shrfr)
